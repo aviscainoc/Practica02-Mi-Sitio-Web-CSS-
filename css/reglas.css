@@ -1,0 +1,35 @@
+iframe{
+    width: 500px;
+    height: 350px;
+    margin-inline-start: 260px;
+}
+table{
+    margin-inline-start: 10%;
+    border-style: groove;
+    border-color: black;
+ /*style="width: 100%"*/
+    width: 800px;
+}
+tr{
+    border-style: groove;
+    border-color: black; 
+}
+th{
+    border-style: inherit;
+    border-color: black;
+}
+td{
+    border-style: solid;
+    border-color: black;
+}
+footer{
+    clear: both;
+}
+.logo{
+    width: 500px;
+    height: 350px;
+    margin-inline-start: 30%;
+}
+#cab_carac{
+    background-color: rgb(181, 131, 190);
+}

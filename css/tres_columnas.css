@@ -1,34 +1,47 @@
-/**{
 
+
+
+
+#menu{
     border-top-style: groove;
     border-bottom-style: groove;
     border-left-style: groove;
     border-right-style: groove;
-}*/
-
-
-.menu{
-    border-top-style: groove;
-    border-bottom-style: groove;
-    border-left-style: groove;
-    border-right-style: groove;
-    width: 15%;
-
-}
-.c1{
-    border-top-style: groove;
-    border-bottom-style: groove;
-    border-left-style: groove;
-    border-right-style: groove;
-    width: 65%;
+    width: 8%;
     float: left;
 }
 
-.c2{
+#c1{
     border-top-style: groove;
     border-bottom-style: groove;
     border-left-style: groove;
     border-right-style: groove;
-    width: 30%;
+    width: 56%;
+    height: 600px;
     float: left;
+}
+
+#c2{
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border-left-style: groove;
+    border-right-style: groove;
+    width: 35%;
+    height: 600px;
+    
+    float: left;
+    
+}
+#fot_carac{
+    border-top-style: dashed ;
+    border-bottom-style: dashed;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    height: 60px;  
+}
+#cab_carac{
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border-left-style: inset;
+    border-right-style: inset;  
 }
