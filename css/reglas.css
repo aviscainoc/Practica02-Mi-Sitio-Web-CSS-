@@ -112,3 +112,11 @@ a{
     text-underline-position: auto;
     color: lightsteelblue;
 }
+
+#eventos a:visited{
+    color:tomato;
+    text-decoration: line-through;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-color: violet;
+    text-decoration-style: double;
+}
