@@ -30,6 +30,8 @@ Actividades Desarrolladas
 
 
 1.Creacion del Repositorio GitHub con el nombre Practica02 – Mi Sitio Web (CSS) 
+https://raw.githubusercontent.com/aviscainoc/Practica02-Mi-Sitio-Web-CSS-/master/Capturas/c1.png
+
 
  
 
