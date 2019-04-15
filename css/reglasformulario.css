@@ -1,0 +1,64 @@
+#bformulario{
+    background: url(../images/fondo.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: none;
+}
+#cajaSug{
+    background-image: none;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-right-style: double;
+    width:55% ;
+    height: 400px;
+    margin: auto;
+    background-image: none;
+    
+}
+
+#cajaSug .contenedor {
+    
+    background-image: none;
+}
+
+#cajaSug .contenedor .form {
+    
+    background-image: none;
+}
+
+#cajaSug .contenedor .form .cabecera_contenedor {
+    
+    background-image: none;
+    border-inline-start: 25%;
+}
+
+#cajaSug .contenedor .form .cabecera_contenedor .titulo_formulario{
+    font-weight: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-style: oblique;
+    background-image: none;
+}
+
+
+
+
+
+#cajaSug .etiqueta_formulario{
+    margin: auto;
+    display: block;
+}
+
+.etiqueta_formulario{
+   
+    background-image: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size-adjust: inherit;
+    font-style: oblique;
+    color: black;
+    size: 3px;
+    font-size: 30px;
+}
+
+
