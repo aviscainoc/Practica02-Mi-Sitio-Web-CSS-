@@ -86,3 +86,29 @@ a{
    margin-bottom:  5px;
     color: red;
 }
+
+.titulos h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    padding: 25px;
+    margin-bottom: 0px;
+    text-align: center;
+    rotate: left;
+}
+
+.titulos h2{
+    text-decoration: underline;
+    animation-fill-mode: both;
+    text-decoration-style: double;
+    text-anchor: middle;
+    color: slategrey;
+
+}
+
+.titulos h3{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size-adjust: initial;
+    text-underline-position: auto;
+    color: lightsteelblue;
+}
