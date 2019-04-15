@@ -62,4 +62,18 @@
     
 }
 
+#menu{
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border-left-style: groove;
+    border-right-style: groove;
+    width: 15%;
+    float: left;
+    position: relative;
+    background-image: none !important;
+    
+
+} 
+
+
 
