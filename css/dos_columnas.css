@@ -1,34 +1,44 @@
-/**{
-
-    border-top-style: groove;
-    border-bottom-style: groove;
-    border-left-style: groove;
-    border-right-style: groove;
-}*/
-
-
-.menu{
+#menu{
     border-top-style: groove;
     border-bottom-style: groove;
     border-left-style: groove;
     border-right-style: groove;
     width: 15%;
-
+    float: left;
+    position: relative;
+    background-image: none !important;
 }
-.c1{
+
+#c1{
+    padding: 2%;
     border-top-style: groove;
     border-bottom-style: groove;
     border-left-style: groove;
     border-right-style: groove;
-    width: 65%;
+    width: 80%;
+    height: 250px;
     float: left;
+    position: relative;
+    background-image: none !important;
 }
 
-.c2{
+
+
+#fot_carac{
+    padding: 2%;
+    text-align: center;
+    border-top-style: dashed ;
+    border-bottom-style: dashed;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    height: 60px;  
+    position: relative;
+    background-image: none !important;
+}
+#cab_carac{
     border-top-style: groove;
     border-bottom-style: groove;
-    border-left-style: groove;
-    border-right-style: groove;
-    width: 30%;
-    float: left;
+    border-left-style: inset;
+    border-right-style: inset;  
+    background-image: none !important;
 }

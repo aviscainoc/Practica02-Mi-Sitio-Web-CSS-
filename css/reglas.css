@@ -1,3 +1,9 @@
+*{
+    background-image: url("../images/fondo.png");
+    background-repeat: no-repeat;
+}
+
+
 iframe{
     width: 500px;
     height: 350px;
@@ -32,4 +38,20 @@ footer{
 }
 #cab_carac{
     background-color: rgb(181, 131, 190);
+
+}
+section{
+    background-image: none !important;
+}
+article {
+    background-image: none !important;
+}
+p{
+    background-image: none !important;
+}
+h1{
+    background-image: none !important;
+}
+aside{
+    background-image: none !important;
 }
